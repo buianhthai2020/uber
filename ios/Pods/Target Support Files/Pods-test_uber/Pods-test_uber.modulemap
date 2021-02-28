@@ -1,0 +1,6 @@
+module Pods_test_uber {
+  umbrella header "Pods-test_uber-umbrella.h"
+
+  export *
+  module * { export * }
+}
